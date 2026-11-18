@@ -1,4 +1,4 @@
-RROM ghcr.io/mgerwec/sojsgo:latest
+FROM ghcr.io/mgerwec/sojsgo:latest
 ENV PORT=3000
 ENV ERGOUNEIZHI=1
 ENV ERGODUANKOU=53781
